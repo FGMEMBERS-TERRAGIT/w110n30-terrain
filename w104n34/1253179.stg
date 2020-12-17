@@ -1,0 +1,4 @@
+OBJECT_BASE 1253179.btg
+OBJECT NM30.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -103.072184 34.875681 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -103.062154 34.874447 -9999.0 0.00
